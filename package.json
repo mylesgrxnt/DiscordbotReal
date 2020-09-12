@@ -1,0 +1,12 @@
+{
+  "name": "ContentCop",
+  "description": "A Discord bot!",
+  "version": "0.0.0",
+  "main": "code.py",
+  "scripts": {
+    "start": "node code.py"
+  },
+  "dependencies": {
+  "discord.js": "11.1.0",
+  }
+}
